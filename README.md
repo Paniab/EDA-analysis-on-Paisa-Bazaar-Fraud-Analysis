@@ -123,5 +123,3 @@ Followed **UBM Framework**:
 - Develop an interactive dashboard  
 
 ---
-
-## 📂 Project Structure
